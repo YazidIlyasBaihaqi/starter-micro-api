@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon ./src/index.js && pip install",
     "start": "node ./src/index.js",
-    "build": ""
+    "build": "npm install & pip install"
   },
   "author": "",
   "license": "ISC",
