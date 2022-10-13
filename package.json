@@ -4,7 +4,7 @@
   "description": "Discord Bot Eris Version",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./src/index.js",
+    "dev": "nodemon ./src/index.js && pip install",
     "start": "node ./src/index.js",
     "build": ""
   },
